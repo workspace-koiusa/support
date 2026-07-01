@@ -8,7 +8,7 @@
 
 ### 2. メールでのお問い合わせ
 メールでのサポートをご希望の場合は、下記のアドレスまでご連絡ください。
-- **連絡先メールアドレス:** [foxandowl.contact@gmail.com]
+- **連絡先メールアドレス:** [foxandowl.info@gmail.com]
 
 ---
 
@@ -19,4 +19,4 @@ Please submit a new issue on our [Issues](../../issues) page.
 
 ### 2. Email Support
 You can also contact us via email:
-- **Email:** [foxandowl.contact@gmail.com]
+- **Email:** [foxandowl.info@gmail.com]
